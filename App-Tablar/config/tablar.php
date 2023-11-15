@@ -61,6 +61,7 @@ return [
     */
 
     'layout' => 'horizontal',
+    
     //boxed, combo, condensed, fluid, fluid-vertical, horizontal, navbar-overlap, navbar-sticky, rtl, vertical, vertical-right, vertical-transparent
 
     'layout_light_sidebar' => null,
@@ -124,53 +125,15 @@ return [
 
     'menu' => [
         // Navbar items:
+       
         [
-            'text' => 'Home',
-            'icon' => 'ti ti-home',
-            'url' => 'home'
+            'text' => 'Productos',
+            'icon' => 'ti ti-shopping-cart',
+            'url' => 'productos'
         ],
+       
 
-        [
-            'text' => 'Support 1',
-            'url' => '#',
-            'icon' => 'ti ti-help',
-            'active' => ['support1'],
-            'submenu' => [
-                [
-                    'text' => 'Ticket',
-                    'url' => 'support1',
-                    'icon' => 'ti ti-article',
-                ]
-            ],
-        ],
-
-        [
-            'text' => 'Support 2',
-            'url' => '#',
-            'icon' => 'ti ti-help',
-            'active' => ['support2'],
-            'submenu' => [
-                [
-                    'text' => 'Ticket',
-                    'url' => 'support2',
-                    'icon' => 'ti ti-article',
-                ]
-            ],
-        ],
-
-        [
-            'text' => 'Support 3',
-            'url' => '#',
-            'icon' => 'ti ti-help',
-            'active' => ['support3'],
-            'submenu' => [
-                [
-                    'text' => 'Ticket',
-                    'url' => 'support3',
-                    'icon' => 'ti ti-article',
-                ]
-            ],
-        ],
+       
 
     ],
 
