@@ -4,7 +4,7 @@
             <div class="col-lg-auto ms-lg-auto">
                 <ul class="list-inline list-inline-dots mb-0">
                     <li class="list-inline-item"><a href="https://github.com/takielias/tablar" target="_blank"
-                                                    class="link-secondary" rel="noopener">Source code</a></li>
+                                                    class="link-secondary" rel="noopener"></a></li>
                     <li class="list-inline-item">
                         <a href="https://www.buymeacoffee.com/takielias" target="_blank" class="link-secondary"
                            rel="noopener">
