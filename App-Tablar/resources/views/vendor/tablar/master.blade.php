@@ -1,8 +1,8 @@
 <!doctype html>
 @if(config('tablar.layout')=='rtl')
-    <html lang="en" dir="rtl">
+    <html lang="es" dir="rtl">
     @else
-        <html lang="en">
+        <html lang="es">
         @endif
         <head>
             <meta charset="utf-8"/>
